@@ -9,3 +9,13 @@ C:\Users\GET Academy\source\repos\Passordgenerator\Passordgenerator\obj\Debug\ne
 C:\Users\GET Academy\source\repos\Passordgenerator\Passordgenerator\obj\Debug\netcoreapp3.1\Passordgenerator.AssemblyInfo.cs
 C:\Users\GET Academy\source\repos\Passordgenerator\Passordgenerator\obj\Debug\netcoreapp3.1\Passordgenerator.dll
 C:\Users\GET Academy\source\repos\Passordgenerator\Passordgenerator\obj\Debug\netcoreapp3.1\Passordgenerator.pdb
+C:\Users\GET Academy\Documents\CSharp\Passordgenerator\Passordgenerator\bin\Debug\netcoreapp3.1\Passordgenerator.exe
+C:\Users\GET Academy\Documents\CSharp\Passordgenerator\Passordgenerator\bin\Debug\netcoreapp3.1\Passordgenerator.deps.json
+C:\Users\GET Academy\Documents\CSharp\Passordgenerator\Passordgenerator\bin\Debug\netcoreapp3.1\Passordgenerator.runtimeconfig.json
+C:\Users\GET Academy\Documents\CSharp\Passordgenerator\Passordgenerator\bin\Debug\netcoreapp3.1\Passordgenerator.runtimeconfig.dev.json
+C:\Users\GET Academy\Documents\CSharp\Passordgenerator\Passordgenerator\bin\Debug\netcoreapp3.1\Passordgenerator.dll
+C:\Users\GET Academy\Documents\CSharp\Passordgenerator\Passordgenerator\bin\Debug\netcoreapp3.1\Passordgenerator.pdb
+C:\Users\GET Academy\Documents\CSharp\Passordgenerator\Passordgenerator\obj\Debug\netcoreapp3.1\Passordgenerator.AssemblyInfoInputs.cache
+C:\Users\GET Academy\Documents\CSharp\Passordgenerator\Passordgenerator\obj\Debug\netcoreapp3.1\Passordgenerator.AssemblyInfo.cs
+C:\Users\GET Academy\Documents\CSharp\Passordgenerator\Passordgenerator\obj\Debug\netcoreapp3.1\Passordgenerator.dll
+C:\Users\GET Academy\Documents\CSharp\Passordgenerator\Passordgenerator\obj\Debug\netcoreapp3.1\Passordgenerator.pdb

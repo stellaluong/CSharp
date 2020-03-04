@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GET Academy\\source\\repos\\Passordgenerator\\Passordgenerator\\Passordgenerator.csproj",
+      "projectUniqueName": "C:\\Users\\GET Academy\\Documents\\CSharp\\Passordgenerator\\Passordgenerator\\Passordgenerator.csproj",
       "projectName": "Passordgenerator",
-      "projectPath": "C:\\Users\\GET Academy\\source\\repos\\Passordgenerator\\Passordgenerator\\Passordgenerator.csproj",
+      "projectPath": "C:\\Users\\GET Academy\\Documents\\CSharp\\Passordgenerator\\Passordgenerator\\Passordgenerator.csproj",
       "packagesPath": "C:\\Users\\GET Academy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GET Academy\\source\\repos\\Passordgenerator\\Passordgenerator\\obj\\",
+      "outputPath": "C:\\Users\\GET Academy\\Documents\\CSharp\\Passordgenerator\\Passordgenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GET Academy\\AppData\\Roaming\\NuGet\\NuGet.Config",

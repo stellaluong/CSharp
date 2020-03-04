@@ -78,6 +78,7 @@ namespace PasswordGenerator
                 Console.WriteLine("  - L = upper case letter");
                 Console.WriteLine("  - d = digit");
                 Console.WriteLine("  - s = special character (!\"#¤%&/(){}[]");
+
                 Console.WriteLine("Example: PasswordGenerator 14 lLssdd");
                 Console.WriteLine("         Min. 1 lower case");
                 Console.WriteLine("         Min. 1 upper case");
