@@ -1,0 +1,11 @@
+C:\Users\GET Academy\source\repos\Hva gjør denne opgaven\Hva gjør denne opgaven\bin\Debug\netcoreapp3.1\Hva gjør denne opgaven.exe
+C:\Users\GET Academy\source\repos\Hva gjør denne opgaven\Hva gjør denne opgaven\bin\Debug\netcoreapp3.1\Hva gjør denne opgaven.deps.json
+C:\Users\GET Academy\source\repos\Hva gjør denne opgaven\Hva gjør denne opgaven\bin\Debug\netcoreapp3.1\Hva gjør denne opgaven.runtimeconfig.json
+C:\Users\GET Academy\source\repos\Hva gjør denne opgaven\Hva gjør denne opgaven\bin\Debug\netcoreapp3.1\Hva gjør denne opgaven.runtimeconfig.dev.json
+C:\Users\GET Academy\source\repos\Hva gjør denne opgaven\Hva gjør denne opgaven\bin\Debug\netcoreapp3.1\Hva gjør denne opgaven.dll
+C:\Users\GET Academy\source\repos\Hva gjør denne opgaven\Hva gjør denne opgaven\bin\Debug\netcoreapp3.1\Hva gjør denne opgaven.pdb
+C:\Users\GET Academy\source\repos\Hva gjør denne opgaven\Hva gjør denne opgaven\obj\Debug\netcoreapp3.1\Hva gjør denne opgaven.csprojAssemblyReference.cache
+C:\Users\GET Academy\source\repos\Hva gjør denne opgaven\Hva gjør denne opgaven\obj\Debug\netcoreapp3.1\Hva gjør denne opgaven.AssemblyInfoInputs.cache
+C:\Users\GET Academy\source\repos\Hva gjør denne opgaven\Hva gjør denne opgaven\obj\Debug\netcoreapp3.1\Hva gjør denne opgaven.AssemblyInfo.cs
+C:\Users\GET Academy\source\repos\Hva gjør denne opgaven\Hva gjør denne opgaven\obj\Debug\netcoreapp3.1\Hva gjør denne opgaven.dll
+C:\Users\GET Academy\source\repos\Hva gjør denne opgaven\Hva gjør denne opgaven\obj\Debug\netcoreapp3.1\Hva gjør denne opgaven.pdb
