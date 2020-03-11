@@ -1,0 +1,11 @@
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\bin\Debug\netcoreapp3.1\Pure Puzzles.exe
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\bin\Debug\netcoreapp3.1\Pure Puzzles.deps.json
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\bin\Debug\netcoreapp3.1\Pure Puzzles.runtimeconfig.json
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\bin\Debug\netcoreapp3.1\Pure Puzzles.runtimeconfig.dev.json
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\bin\Debug\netcoreapp3.1\Pure Puzzles.dll
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\bin\Debug\netcoreapp3.1\Pure Puzzles.pdb
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\obj\Debug\netcoreapp3.1\Pure Puzzles.csprojAssemblyReference.cache
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\obj\Debug\netcoreapp3.1\Pure Puzzles.AssemblyInfoInputs.cache
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\obj\Debug\netcoreapp3.1\Pure Puzzles.AssemblyInfo.cs
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\obj\Debug\netcoreapp3.1\Pure Puzzles.dll
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\obj\Debug\netcoreapp3.1\Pure Puzzles.pdb

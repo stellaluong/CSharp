@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Pure_Puzzles</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Oppgave 2.1" />
+  </ItemGroup>
+
+</Project>

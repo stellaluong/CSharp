@@ -1,0 +1,11 @@
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\Oppgave 2.2\obj\Debug\netcoreapp3.1\Oppgave 2.2.csprojAssemblyReference.cache
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\Oppgave 2.2\obj\Debug\netcoreapp3.1\Oppgave 2.2.AssemblyInfoInputs.cache
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\Oppgave 2.2\obj\Debug\netcoreapp3.1\Oppgave 2.2.AssemblyInfo.cs
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\Oppgave 2.2\bin\Debug\netcoreapp3.1\Oppgave 2.2.exe
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\Oppgave 2.2\bin\Debug\netcoreapp3.1\Oppgave 2.2.deps.json
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\Oppgave 2.2\bin\Debug\netcoreapp3.1\Oppgave 2.2.runtimeconfig.json
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\Oppgave 2.2\bin\Debug\netcoreapp3.1\Oppgave 2.2.runtimeconfig.dev.json
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\Oppgave 2.2\bin\Debug\netcoreapp3.1\Oppgave 2.2.dll
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\Oppgave 2.2\bin\Debug\netcoreapp3.1\Oppgave 2.2.pdb
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\Oppgave 2.2\obj\Debug\netcoreapp3.1\Oppgave 2.2.dll
+C:\Users\GET Academy\Documents\CSharp\Pure Puzzles\Pure Puzzles\Oppgave 2.2\obj\Debug\netcoreapp3.1\Oppgave 2.2.pdb

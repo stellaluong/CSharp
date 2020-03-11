@@ -32,7 +32,7 @@ namespace PasswordGenerator
             Console.WriteLine(password);
               }
               
-             static char RandomSpecialCharacter()
+            private static char RandomSpecialCharacter()
             {
                 var allSpecialCharacter = "!\"#¤%&/(){}[]";
                 var index = Random.Next(0, allSpecialCharacter.Length - 1);
@@ -43,19 +43,21 @@ namespace PasswordGenerator
                 return Random.Next(0, 9).ToString()[0];
             }
 
-        static char RandomUpperCase()
-            {
-                return GetRandomLetter('A', 'Z');
-            }
-            static char RandomLowerCase()
+             private static char RandomUpperCase()
+             {
+
+                 return GetRandomLetter('A', 'Z');
+             }
+
+             private static char RandomLowerCase()
             {
                 return GetRandomLetter('a', 'z');
             }
-            static char GetRandomLetter(char min, char max)
+            private static char GetRandomLetter(char min, char max)
             {
                 return (char)Random.Next(min, max);
             }
-            static bool IsValid(string[] args)
+            private static bool IsValid(string[] args)
             {
                 if (args.Length != 2) return false;
 
