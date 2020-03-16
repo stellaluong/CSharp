@@ -1,0 +1,11 @@
+C:\Users\Andreas\Documents\GitHub\c#\TrePåRad\obj\Debug\netcoreapp3.1\TrePåRad.csprojAssemblyReference.cache
+C:\Users\Andreas\Documents\GitHub\c#\TrePåRad\obj\Debug\netcoreapp3.1\TrePåRad.AssemblyInfoInputs.cache
+C:\Users\Andreas\Documents\GitHub\c#\TrePåRad\obj\Debug\netcoreapp3.1\TrePåRad.AssemblyInfo.cs
+C:\Users\Andreas\Documents\GitHub\c#\TrePåRad\bin\Debug\netcoreapp3.1\TrePåRad.exe
+C:\Users\Andreas\Documents\GitHub\c#\TrePåRad\bin\Debug\netcoreapp3.1\TrePåRad.deps.json
+C:\Users\Andreas\Documents\GitHub\c#\TrePåRad\bin\Debug\netcoreapp3.1\TrePåRad.runtimeconfig.json
+C:\Users\Andreas\Documents\GitHub\c#\TrePåRad\bin\Debug\netcoreapp3.1\TrePåRad.runtimeconfig.dev.json
+C:\Users\Andreas\Documents\GitHub\c#\TrePåRad\bin\Debug\netcoreapp3.1\TrePåRad.dll
+C:\Users\Andreas\Documents\GitHub\c#\TrePåRad\bin\Debug\netcoreapp3.1\TrePåRad.pdb
+C:\Users\Andreas\Documents\GitHub\c#\TrePåRad\obj\Debug\netcoreapp3.1\TrePåRad.dll
+C:\Users\Andreas\Documents\GitHub\c#\TrePåRad\obj\Debug\netcoreapp3.1\TrePåRad.pdb
