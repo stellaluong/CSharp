@@ -21,17 +21,9 @@ namespace FamilyTree
             return startTxt;
 
         }
-
-
         public void ShowPerson()
         {
-            if (Id != 0) Console.WriteLine($"Id: {Id}");
-            if (FirstName != null) Console.WriteLine($"First Name: {FirstName}");
-            if (LastName != null) Console.WriteLine($"Last Name: {LastName}");
-            if (Status != null) Console.WriteLine($"{Status}");
-            if (Father != null) Console.WriteLine($"Father's name: {Father.FirstName}, ID: {Father.Id}");
-            if (Mother != null) Console.WriteLine($"Mother's name: {Mother.FirstName}, ID: {Mother.Id}");
+            Console.WriteLine(GetDescription());
         }
-
     }
 }
