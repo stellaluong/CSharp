@@ -10,8 +10,16 @@ namespace SimpleChess
         {
             Console.OutputEncoding = Encoding.UTF8;
             var board = new Board();
+            var king = new King();
+            var queen = new Queen();
+            var knight = new Knight();
+            var pawn = new Pawn();
             var bishop = new Bishop();
             var rook = new Rook();
+            board.Set("f6", knight);
+            board.Set("e5", pawn);
+            board.Set("e1", queen);
+            board.Set("d1", king);
             board.Set("e4", bishop);
             board.Set("f7", rook);
             while (true)

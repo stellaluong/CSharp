@@ -1,0 +1,17 @@
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\bin\Debug\TestTrepårad.exe.config
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\bin\Debug\TestTrepårad.exe
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\bin\Debug\TestTrepårad.pdb
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\TestTrepårad.csprojAssemblyReference.cache
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\MainWindow.g.cs
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\View\BoardView.g.cs
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\App.g.cs
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\TestTrepårad_MarkupCompile.cache
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\TestTrepårad_MarkupCompile.lref
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\MainWindow.baml
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\View\BoardView.baml
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\TestTrepårad.g.resources
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\TestTrepårad.Properties.Resources.resources
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\TestTrepårad.csproj.GenerateResource.cache
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\TestTrepårad.exe
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\TestTrepårad.pdb
+C:\Users\GET Academy\Documents\CSharp\TestTrepårad\obj\Debug\GeneratedInternalTypeHelper.g.cs

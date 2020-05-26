@@ -14,5 +14,10 @@ namespace SimpleChess
         {
             return fromPosition[0] == toPosition[0] || fromPosition[1] == toPosition[1];
         }
+
+        public override string[] MoveChessPiece(string fromPosition, string toPosition)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

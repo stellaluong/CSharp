@@ -1,0 +1,11 @@
+C:\Users\GET Academy\Documents\CSharp\tilfeldigfirkant\obj\Debug\netcoreapp3.1\tilfeldigfirkant.csprojAssemblyReference.cache
+C:\Users\GET Academy\Documents\CSharp\tilfeldigfirkant\obj\Debug\netcoreapp3.1\tilfeldigfirkant.AssemblyInfoInputs.cache
+C:\Users\GET Academy\Documents\CSharp\tilfeldigfirkant\obj\Debug\netcoreapp3.1\tilfeldigfirkant.AssemblyInfo.cs
+C:\Users\GET Academy\Documents\CSharp\tilfeldigfirkant\bin\Debug\netcoreapp3.1\tilfeldigfirkant.exe
+C:\Users\GET Academy\Documents\CSharp\tilfeldigfirkant\bin\Debug\netcoreapp3.1\tilfeldigfirkant.deps.json
+C:\Users\GET Academy\Documents\CSharp\tilfeldigfirkant\bin\Debug\netcoreapp3.1\tilfeldigfirkant.runtimeconfig.json
+C:\Users\GET Academy\Documents\CSharp\tilfeldigfirkant\bin\Debug\netcoreapp3.1\tilfeldigfirkant.runtimeconfig.dev.json
+C:\Users\GET Academy\Documents\CSharp\tilfeldigfirkant\bin\Debug\netcoreapp3.1\tilfeldigfirkant.dll
+C:\Users\GET Academy\Documents\CSharp\tilfeldigfirkant\bin\Debug\netcoreapp3.1\tilfeldigfirkant.pdb
+C:\Users\GET Academy\Documents\CSharp\tilfeldigfirkant\obj\Debug\netcoreapp3.1\tilfeldigfirkant.dll
+C:\Users\GET Academy\Documents\CSharp\tilfeldigfirkant\obj\Debug\netcoreapp3.1\tilfeldigfirkant.pdb

@@ -1,0 +1,23 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestTrepårad"
+        xmlns:View="clr-namespace:TestTrepårad.View" x:Class="TestTrepårad.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="TrePåRad">
+        <View:BoardView HorizontalAlignment="Left" Height="399" Margin="10,10,0,0" VerticalAlignment="Top" Width="772"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="91" Margin="35,42,0,0" RenderTransformOrigin="2.356,1.042"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="91" Margin="130,42,0,0" RenderTransformOrigin="2.356,1.042"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="91" Margin="225,42,0,0" RenderTransformOrigin="2.356,1.042"/>
+        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="91" Margin="35,138,0,0" RenderTransformOrigin="2.356,1.042"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="91" RenderTransformOrigin="2.356,1.042" Margin="130,138,0,0"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="91" RenderTransformOrigin="2.356,1.042" Margin="130,138,0,0"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="91" RenderTransformOrigin="2.356,1.042" Margin="225,138,0,0"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="91" RenderTransformOrigin="2.356,1.042" Margin="35,234,0,0"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="91" RenderTransformOrigin="2.356,1.042" Margin="130,234,0,0"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="91" RenderTransformOrigin="2.356,1.042" Margin="225,234,0,0"/>
+    </Grid>
+</Window>
