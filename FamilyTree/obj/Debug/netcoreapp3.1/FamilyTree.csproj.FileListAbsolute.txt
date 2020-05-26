@@ -1,0 +1,4 @@
+C:\Users\GET Academy\Documents\CSharp\FamilyTree\obj\Debug\netcoreapp3.1\FamilyTree.csprojAssemblyReference.cache
+C:\Users\GET Academy\Documents\CSharp\FamilyTree\obj\Debug\netcoreapp3.1\FamilyTree.csproj.CoreCompileInputs.cache
+C:\Users\GET Academy\Documents\CSharp\FamilyTree\obj\Debug\netcoreapp3.1\FamilyTree.AssemblyInfoInputs.cache
+C:\Users\GET Academy\Documents\CSharp\FamilyTree\obj\Debug\netcoreapp3.1\FamilyTree.AssemblyInfo.cs
